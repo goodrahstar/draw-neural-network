@@ -1,4 +1,5 @@
 # Quick tool to draw fully connected neural network architectures
+<a href="https://www.producthunt.com/posts/plotneurons?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-plotneurons" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=136034&theme=light" alt="PlotNeurons - The most simple neural network plotter | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 
 ## USAGE: <br>
